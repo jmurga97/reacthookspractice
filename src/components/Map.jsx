@@ -11,7 +11,7 @@ function Map() {
         lat: 19.425435, lng: -99.122123
     }
     return(
-        <LoadScript googleMapsApiKey='AIzaSyA8E0BLrtcKCOsUY5_3y4ZSQc-bebOyN5s'>
+        <LoadScript googleMapsApiKey=''>
             <GoogleMap
                 mapContainerStyle={mapStyles}
                 zoom={9}
