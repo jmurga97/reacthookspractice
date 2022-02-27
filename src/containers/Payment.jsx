@@ -13,7 +13,7 @@ function Payment() {
 
   const paypalOptions = {
     clientId:
-      'access_token$sandbox$gqdp4tvxyd7zsd4m$d95ed96d3f99161419bf2f51024e79f6',
+      '',
     intent: 'capture',
     currency: 'USD',
   };
